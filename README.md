@@ -36,4 +36,5 @@
     ![](Foto/foto7.png)
    <strong>Kemudian tambahkan tag '<link>' untuk merujuk file css yang sudah dibuat pada bagian '<head>'</strong>
     ![](Foto/foto8.png)
+    
 # 5. <strong>Menambahkan CSS Selector</strong>
