@@ -11,8 +11,12 @@
 
 # <strong><hr><mark>LANGKAH - LANGKAH PRATIKUM</mark></hr></strong></p>
 
-# 1. <strong><hr><mark>Membuat dokumen HTML</hr></strong></p>
-   <strong><hr><mark> Buatlah dokumen HTML seperti berikut ini di VSCode:</hr></strong></p>
+# 1. <strong><hr>Membuat dokumen HTML</hr></strong>
+   <strong><hr>Buatlah dokumen HTML seperti berikut ini di VSCode:</hr></strong>
     ![](Foto/foto1.png)
-   <strong><hr><mark>Selanjutnya buka pada brwoser untuk melihat hasilnya.</hr></strong></p>
+   <strong><hr><mark>Selanjutnya buka pada brwoser untuk melihat hasilnya.</hr></strong>
     ![](Foto/foto2.png)
+
+# 2. <strong><hr>Mendeklarasikan CSS Internal</hr></strong>
+   <strong><hr>Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen.</hr></strong>
+    ![](Foto/foto3.png)
