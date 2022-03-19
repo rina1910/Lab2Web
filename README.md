@@ -24,4 +24,9 @@
    hasilnya..</hr></strong>
     ![](Foto/foto4.png)
 
+# 3. <strong>Menambahkan Inline CSS</strong>
+   <strong><hr>Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut:</hr></strong>
+    ![](Foto/foto5.png)
+   <strong><hr>Simpan kembali dan refresh kembali browser untuk melihat perubahannya dan ini hasilnya: </hr></strong>
+    ![](Foto/foto6.png)
 
