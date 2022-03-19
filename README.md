@@ -25,7 +25,7 @@
     ![](Foto/foto4.png)
 
 # 3. <strong>Menambahkan Inline CSS</strong>
-   <strong>Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut:</strong>
+   <strong>Kemudian tambahkan deklarasi inline CSS pada tag '< p >' seperti berikut:</strong>
     ![](Foto/foto5.png)
    <strong><hr>Simpan kembali dan refresh kembali browser untuk melihat perubahannya dan ini hasilnya: </hr></strong>
     ![](Foto/foto6.png)
@@ -34,7 +34,14 @@
 # 4. <strong>Membuat CSS Eksternal</strong>
    <strong>Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut.</strong>
     ![](Foto/foto7.png)
-   <strong>Kemudian tambahkan tag '<link>' untuk merujuk file css yang sudah dibuat pada bagian '<head>'</strong>
+   <strong><hr>Kemudian tambahkan tag '< link >' untuk merujuk file css yang sudah dibuat pada bagian '< head >'</hr></strong>
     ![](Foto/foto8.png)
-    
+    <strong><hr>Simpan kembali dan refresh kembali browser untuk melihat perubahannya dan ini hasilnya: </hr></strong>
+    ![](Foto/foto9.png)
+
 # 5. <strong>Menambahkan CSS Selector</strong>
+   <strong>Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file
+   style_eksternal.css, tambahkan kode berikut.</strong>
+    ![](Foto/foto10.png)
+   <strong><hr>Simpan kembali dan refresh kembali browser untuk melihat perubahannya dan ini hasilnya: </hr></strong>
+    ![](Foto/foto11.png)
