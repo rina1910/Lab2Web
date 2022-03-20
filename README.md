@@ -45,13 +45,13 @@
     ![](Foto/foto11.png)
 
 # 6. <strong>Memembuat dokumen HTML dengan judul lab2_css_eksternal.html</strong>
-   <strong>Buatlah dokumen HTML seperti berikut ini di VSCode :</strong>
+   <p><strong>Buatlah dokumen HTML seperti berikut ini di VSCode :</strong>
     <!doctype html>
-<html>
-<head>
-    <!-- menyisipkan css eksternal -->
-    <link rel="stylesheet" href="style_eksternal.css" type="text/css">
-    <title>CSS eksternal html</title>
+    <html>
+    <head>
+         <!-- menyisipkan css eksternal -->
+         <link rel="stylesheet" href="style_eksternal.css" type="text/css">
+         <title>CSS eksternal html</title>
     <style>
         body {
             font-family:'Open Sans', sans-serif;
@@ -82,9 +82,9 @@
 
         </style>
     <link rel="stylesheet" type="text/css" href="styleku.css" />
-</head>
-<body>
-    <header>
+   </head>
+   <body>
+     <header>
         <h1>CSS Internal dan <i>Inline CSS</i></h1>
         <h2>Praktikum 2: <i>CSS Dasar</i></h2>
     </header>
@@ -100,9 +100,8 @@
     Web</b> di <i>Universitas Pelita Bangsa</i>. Pelajaran pertama yang kami dapat
     adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML
     dan CSS.</p>
-
-</body>
-</html>
+   </body>
+   </html></p>
    <strong><hr>Selanjutnya buka pada brwoser untuk melihat hasilnya.</hr></strong>
     ![](Foto/foto2.png)
 
