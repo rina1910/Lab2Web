@@ -7,7 +7,7 @@
 | <strong>Kelas</strong>   | <strong>TI.20.A.1</strong>        |
 
 
-# <strong><hr><mark>LANGKAH - LANGKAH PRATIKUM CSS DASAR</mark></hr></strong></p>
+# <strong><hr><mark>LANGKAH - LANGKAH PRATIKUM 2 'CSS DASAR'</mark></hr></strong>
 
 # 1. <strong>Membuat dokumen HTML</strong>
    <strong>Buatlah dokumen HTML seperti berikut ini di VSCode:</strong>
@@ -43,3 +43,18 @@
     ![](Foto/foto10.png)
    <strong><hr>Simpan kembali dan refresh kembali browser untuk melihat perubahannya dan ini hasilnya: </hr></strong>
     ![](Foto/foto11.png)
+
+# Pertanyaan dan Tugas
+1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
+dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
+2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan
+penjelasannya!
+3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada
+elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan
+penjelasan dan contohnya!
+4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
+terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
+Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
+
+# Jawaban 
+1. 
