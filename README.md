@@ -1,7 +1,5 @@
 # Lab2Web
 
-# <p><i>CSS DASAR</i></p>
-
 <strong>Repository ini dibuat untuk memenuhi tugas Pemrograman Web</strong>
 | <strong>Nama</strong>      | <strong>Riris Naomi Gurning</strong>  |
 | ----------- | ----------- |
@@ -9,7 +7,7 @@
 | <strong>Kelas</strong>   | <strong>TI.20.A.1</strong>        |
 
 
-# <strong><hr><mark>LANGKAH - LANGKAH PRATIKUM</mark></hr></strong></p>
+# <strong><hr><mark>LANGKAH - LANGKAH PRATIKUM CSS DASAR</mark></hr></strong></p>
 
 # 1. <strong>Membuat dokumen HTML</strong>
    <strong>Buatlah dokumen HTML seperti berikut ini di VSCode:</strong>
