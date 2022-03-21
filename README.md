@@ -8,6 +8,8 @@
 
 
 # <strong><hr><mark>LANGKAH - LANGKAH PRATIKUM 2 'CSS DASAR'</mark></hr></strong>
+Membuka text editor, saya menggunakan Visual Studio Code
+   ![](Foto/foto22.png)
 
 # 1. <strong>Membuat dokumen HTML</strong>
    <strong>Buatlah dokumen HTML seperti berikut ini di VSCode:</strong>
