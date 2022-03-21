@@ -86,4 +86,5 @@
    ![](Foto/foto22.png)
 
 4. Deklarasi id="paragraf-1" akan ditampilkan pada browser, karena selektor id lebih spesifik dari class atau bahkan element P itu sendiri, kecuali jika kita menambahkan property pada inline element P maka selektor id tersebut akan tertimpa, karena inline lebih spesifik daripada id, class, dan element
+   ![](Foto/foto22.png)
 
