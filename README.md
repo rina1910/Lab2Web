@@ -66,7 +66,16 @@ Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
 # Jawaban 
 1. Saya akan mengubah dan menambah properti dan nilai pada kode CSS, dimulai dari membuat kerangka html nya
    ![](Foto/foto15.png)
+
    Kemudian membuat CSS nya dengan menambah properti dan nilai pada kode
    ![](Foto/foto16.png)
    ![](Foto/foto17.png)
+
+   Hasilnya seperti dibawah ini:
+   ![](Foto/foto18.png)
+
+   Selanjutnya saya menambahkan css id selector
+   ![](Foto/foto19.png)
+   Hasilnya seperti ini:
+   ![](Foto/foto20.png)
 
