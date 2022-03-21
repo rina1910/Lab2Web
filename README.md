@@ -47,6 +47,7 @@
 # 6. <strong>Memembuat dokumen HTML dengan judul lab2_css_eksternal.html</strong>
    <strong>Buatlah dokumen HTML seperti berikut ini di VSCode :</strong>
     ![](Foto/foto12.png)
+    ![](Foto/foto14.png)
    <strong><hr>Selanjutnya buka pada brwoser untuk melihat hasilnya.</hr></strong>
     ![](Foto/foto13.png)
 
@@ -63,4 +64,9 @@ terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browse
 Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
 
 # Jawaban 
-1. 
+1. Saya akan mengubah dan menambah properti dan nilai pada kode CSS, dimulai dari membuat kerangka html nya
+   ![](Foto/foto15.png)
+   Kemudian membuat CSS nya dengan menambah properti dan nilai pada kode
+   ![](Foto/foto16.png)
+   ![](Foto/foto17.png)
+
