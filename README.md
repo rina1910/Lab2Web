@@ -52,16 +52,7 @@
     ![](Foto/foto13.png)
 
 # Pertanyaan dan Tugas
-1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
-dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
-2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan
-penjelasannya!
-3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada
-elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan
-penjelasan dan contohnya!
-4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
-terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
-Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
+   ![](Foto/foto21.png)
 
 # Jawaban 
 1. Saya akan mengubah dan menambah properti dan nilai pada kode CSS, dimulai dari membuat kerangka html nya
@@ -78,4 +69,18 @@ Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
    ![](Foto/foto19.png)
    Hasilnya seperti ini:
    ![](Foto/foto20.png)
+
+2. h1{} Untuk memberikan style pada semua element h1
+
+   #intro h1{} Awalan simbol hash (#) memungkinkan kita untuk memberi style pada id. selector id bersifat kaku dan tidak bisa digunakan kembali pada element yang lainnya. Menurut saya lebih baik gunakan selektor class untuk mendefinisikan element yang ingin diberi nilai.
+
+3. Setelah dilakukan pengujian, deklarasi CSS Inline lebih dahulu tampil di browser, itu dikarenakan      permintaan HTTP yang sangat kecil memungkinkan untuk ditampilkan dahulu
+
+   Berikut merupakan hasil pengujian deklarasi CSS
+
+   CSS Inline blue
+
+   CSS Internal red
+
+   CSS Eksternal yellow
 
