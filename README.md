@@ -83,4 +83,5 @@
    CSS Internal red
 
    CSS Eksternal yellow
+   ![](Foto/foto22.png)
 
